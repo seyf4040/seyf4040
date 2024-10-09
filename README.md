@@ -50,7 +50,7 @@ I’m currently diving deeper into Machine Learning and Cloud Computing to build
 I’m always open to collaborations and discussions. Feel free to reach out:
 
 📧 Email: ural.seyf@gmail.com  
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/seyfullah-ural-ba9a1032a/)
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ural-seyfullah/)
 
 
 <!--
